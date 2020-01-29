@@ -1,9 +1,9 @@
 # 幻影Pin驱动(wpa_cli)模块
-## 幻影Pin1.75 fix2版本下载(支持安卓8)
-[Download](hypinfix2.apk)
 
 ## Feature
 Add wpa_cli in your device
+ 
+[More](https://bbs.hypin.cn/d/59-magisk-pin-stable)
  
 ## License 
 - [MIT](LICENSE)
