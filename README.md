@@ -1,15 +1,15 @@
 # 幻影Pin驱动(wpa_cli)模块
-
+- [Archives](../../tree/archives)
+ 
 ## Feature
-Add wpa_cli in your device
+Add wpa_cli in your device - 
+- [More](https://bbs.hypin.cn/d/59-magisk-pin-stable)
  
-[More](https://bbs.hypin.cn/d/59-magisk-pin-stable)
- 
-## License 
+## License
 - [MIT](LICENSE)
-
-## 适用版本  
-Android `4.1 to 8`(More about your Kernel)
-
+ 
+## Supported Versions
+Android `4.x to 8.x`
+ 
 ## Thanks to
 包包包先生 cjybyjk topjohnwu
