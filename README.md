@@ -2,7 +2,7 @@
 - [Archives](../../tree/archives)
  
 ## Feature
-Add wpa_cli in your device - 
+Add wpa_cli in your device
 - [More](https://bbs.hypin.cn/d/59-magisk-pin-stable)
  
 ## License
